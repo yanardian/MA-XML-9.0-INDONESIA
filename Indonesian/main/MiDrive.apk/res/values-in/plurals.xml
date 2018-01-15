@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="delete_files_confirm">
+        <item quantity="other">Hapus %1$d berkas</item>
+        <item quantity="zero">Hapus %1$d berkas</item>
+        <item quantity="one">Hapus %1$d berkas</item>
+        <item quantity="two">Hapus %1$d berkas</item>
+        <item quantity="few">Hapus %1$d berkas</item>
+        <item quantity="many">Hapus %1$d berkas</item>
+    </plurals>
+    <plurals name="delete_folders_confirm">
+        <item quantity="other">" dan %1$d folder?"</item>
+        <item quantity="zero">" dan %1$d folder?"</item>
+        <item quantity="one">" dan %1$d folder?"</item>
+        <item quantity="two">" dan %1$d folder?"</item>
+        <item quantity="few">" dan %1$d folder?"</item>
+        <item quantity="many">" dan %1$d folder?"</item>
+    </plurals>
+    <plurals name="directory_item_count">
+        <item quantity="other">%d item</item>
+        <item quantity="zero">%d item</item>
+        <item quantity="one">%d item</item>
+        <item quantity="two">%d item</item>
+        <item quantity="few">%d item</item>
+        <item quantity="many">%d item</item>
+    </plurals>
+    <plurals name="ui_bar_txt_download_progress">
+        <item quantity="other">Tersisa %1$d berkas untuk diunduh</item>
+        <item quantity="zero">Tersisa %1$d berkas untuk diunduh</item>
+        <item quantity="one">Tersisa %1$d berkas untuk diunduh</item>
+        <item quantity="two">Tersisa %1$d berkas untuk diunduh</item>
+        <item quantity="few">Tersisa %1$d berkas untuk diunduh</item>
+        <item quantity="many">Tersisa %1$d berkas untuk diunduh</item>
+    </plurals>
+    <plurals name="ui_bar_txt_upload_progress">
+        <item quantity="other">Tersisa %1$d berkas untuk diunggah</item>
+        <item quantity="zero">Tersisa %1$d berkas untuk diunggah</item>
+        <item quantity="one">Tersisa %1$d berkas untuk diunggah</item>
+        <item quantity="two">Tersisa %1$d berkas untuk diunggah</item>
+        <item quantity="few">Tersisa %1$d berkas untuk diunggah</item>
+        <item quantity="many">Tersisa %1$d berkas untuk diunggah</item>
+    </plurals>
+    <plurals name="ui_bar_txt_transport_progress">
+        <item quantity="other">Tersisa %1$d berkas untuk dikirim</item>
+        <item quantity="zero">Tersisa %1$d berkas untuk dikirim</item>
+        <item quantity="one">Tersisa %1$d berkas untuk dikirim</item>
+        <item quantity="two">Tersisa %1$d berkas untuk dikirim</item>
+        <item quantity="few">Tersisa %1$d berkas untuk dikirim</item>
+        <item quantity="many">Tersisa %1$d berkas untuk dikirim</item>
+    </plurals>
+    <plurals name="numSelectedFile">
+        <item quantity="other">%1$d terpilih</item>
+        <item quantity="zero">%1$d terpilih</item>
+        <item quantity="one">%1$d terpilih</item>
+        <item quantity="two">%1$d terpilih</item>
+        <item quantity="few">%1$d terpilih</item>
+        <item quantity="many">%1$d terpilih</item>
+    </plurals>
+    <plurals name="items_file">
+        <item quantity="other"> (%1$d item)</item>
+        <item quantity="zero"> (%1$d item)</item>
+        <item quantity="one"> (%1$d item)</item>
+        <item quantity="two"> (%1$d item)</item>
+        <item quantity="few"> (%1$d item)</item>
+        <item quantity="many"> (%1$d item)</item>
+    </plurals>
+    <plurals name="items_picture">
+        <item quantity="other"> (%1$d item)</item>
+        <item quantity="zero"> (%1$d item)</item>
+        <item quantity="one"> (%1$d item)</item>
+        <item quantity="two"> (%1$d item)</item>
+        <item quantity="few"> (%1$d item)</item>
+        <item quantity="many"> (%1$d item)</item>
+    </plurals>
+    <plurals name="file_count">
+        <item quantity="other"> %1$d item</item>
+        <item quantity="zero"> %1$d item</item>
+        <item quantity="one"> %1$d item</item>
+        <item quantity="two"> %1$d item</item>
+        <item quantity="few"> %1$d item</item>
+        <item quantity="many"> %1$d item</item>
+    </plurals>
+    <plurals name="mins_ago">
+        <item quantity="other">%1$d menit yang lalu</item>
+        <item quantity="zero">%1$d menit yang laluo</item>
+        <item quantity="one">%1$d menit yang lalu</item>
+        <item quantity="two">%1$d menit yang laluo</item>
+        <item quantity="few">%1$d menit yang laluo</item>
+        <item quantity="many">%1$d menit yang laluo</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="other">%1$d jam yang lalu</item>
+        <item quantity="zero">%1$d jam yang lalu</item>
+        <item quantity="one">%1$d jam yang lalu</item>
+        <item quantity="two">%1$d jam yang lalu</item>
+        <item quantity="few">%1$d jam yang lalu</item>
+        <item quantity="many">%1$d jam yang lalu</item>
+    </plurals>
+    <plurals name="days_ago">
+        <item quantity="other">%1$d hari yang lalu</item>
+        <item quantity="zero">%1$d hari yang lalu</item>
+        <item quantity="one">%1$d hari yang lalu</item>
+        <item quantity="two">%1$d hari yang lalu</item>
+        <item quantity="few">%1$d hari yang lalu</item>
+        <item quantity="many">%1$d hari yang lalu</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%1$d detik</item>
+        <item quantity="zero">%1$d detik</item>
+        <item quantity="one">%1$d detik</item>
+        <item quantity="two">%1$d detik</item>
+        <item quantity="few">%1$d detik</item>
+        <item quantity="many">%1$d detik</item>
+    </plurals>
+    <plurals name="mins">
+        <item quantity="other">%1$d menit</item>
+        <item quantity="zero">%1$d menit</item>
+        <item quantity="one">%1$d menit</item>
+        <item quantity="two">%1$d menit</item>
+        <item quantity="few">%1$d menit</item>
+        <item quantity="many">%1$d menit</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%1$d jam</item>
+        <item quantity="zero">%1$d jam</item>
+        <item quantity="one">%1$d jam</item>
+        <item quantity="two">%1$d jam</item>
+        <item quantity="few">%1$d jam</item>
+        <item quantity="many">%1$d jam</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="other">%1$d hari</item>
+        <item quantity="zero">%1$d hari</item>
+        <item quantity="one">%1$d hari</item>
+        <item quantity="two">%1$d hari</item>
+        <item quantity="few">%1$d hari</item>
+        <item quantity="many">%1$d hari</item>
+    </plurals>
+    <plurals name="des_running_trans">
+        <item quantity="other">"%1$d file belum ditransfer."</item>
+        <item quantity="one">"%1$d file belum ditransfer."</item>
+    </plurals>
+    <plurals name="delete_folders">
+        <item quantity="other">Hapus %1$d folder?</item>
+        <item quantity="one">Hapus folder ini?</item>
+    </plurals>
+    <plurals name="delete_files">
+        <item quantity="other">Hapus %1$d berkas?</item>
+        <item quantity="one">Hapus berkas ini?</item>
+    </plurals>
+</resources>

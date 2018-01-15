@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="stock_color_schema">
+        <item>Merah - naik, hijau - turun</item>
+        <item>Hijau - naik, merah - turun</item>
+    </string-array>
+</resources>

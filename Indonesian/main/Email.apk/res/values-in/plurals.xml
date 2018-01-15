@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="actionbar_unread_messages">
+        <item quantity="other">%1$d belum dibaca</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">Arsipkan %1$d percakapan ini?</item>
+        <item quantity="zero">Arsipkan %1$d percakapan ini?</item>
+        <item quantity="one">Arsipkan percakapan ini?</item>
+        <item quantity="two">Arsipkan %1$d percakapan ini?</item>
+        <item quantity="few">Arsipkan %1$d percakapan ini?</item>
+        <item quantity="many">Arsipkan %1$d percakapan ini?</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Hapus %1$d percakapan ini?</item>
+        <item quantity="zero">Hapus %1$d percakapan ini?</item>
+        <item quantity="one">Hapus percakapan ini?</item>
+        <item quantity="two">Hapus %1$d percakapan ini?</item>
+        <item quantity="few">Hapus %1$d percakapan ini?</item>
+        <item quantity="many">Hapus %1$d percakapan ini?</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation_with_sub">
+        <item quantity="other">Percakapan ini mengandung item gabungan. Hapus juga?</item>
+        <item quantity="zero">Percakapan ini mengandung item gabungan. Hapus juga??</item>
+        <item quantity="one">Percakapan ini mengandung item gabungan. Hapus juga??</item>
+        <item quantity="two">Percakapan ini mengandung item gabungan. Hapus juga??</item>
+        <item quantity="few">Percakapan ini mengandung item gabungan. Hapus juga??</item>
+        <item quantity="many">Percakapan ini mengandung item gabungan. Hapus juga??</item>
+    </plurals>
+    <plurals name="confirm_delete_draft">
+        <item quantity="other">Hapus %1$d draf?</item>
+        <item quantity="one">Hapus %1$d draf?</item>
+    </plurals>
+    <plurals name="contact_num_selected">
+        <item quantity="other">%d terpilih</item>
+        <item quantity="zero">%d terpilih</item>
+        <item quantity="one">%d terpilih</item>
+        <item quantity="two">%d terpilih</item>
+        <item quantity="few">%d terpilih</item>
+        <item quantity="many">%d terpilih</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">&lt;b>%1$d&lt;/b> diarsipkan.</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> diarsipkan.</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">&lt;b>%1$d&lt;/b> dihapus.</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> dihapus.</item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">Folder diganti.</item>
+        <item quantity="one">Folder diganti.</item>
+    </plurals>
+    <plurals name="conversation_msg_header_count">
+        <item quantity="other">+%1$d orang</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">&lt;b>%1$d&lt;/b> diheningkan</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> diheningkan.</item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">&lt;b>%1$d&lt;/b>" dihapus dari folder 'penting'"</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b>" dihapus dari folder 'penting'"</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">&lt;b>%1$d&lt;/b>" dipindahkan dari folder 'spam'"</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b>" dipindahkan dari folder 'spam'"</item>
+    </plurals>
+    <plurals name="conversation_phished">
+        <item quantity="other">&lt;b>%1$d&lt;/b> pesan dilaporkan sebagai spam</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> pesan dilaporkan sebagai spam</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">&lt;b>%1$d&lt;/b> ditandai sebagai spam</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> ditandai sebagai spam</item>
+    </plurals>
+    <plurals name="day">
+        <item quantity="other">%d hari</item>
+        <item quantity="one">%d hari</item>
+    </plurals>
+    <plurals name="day_after">
+        <item quantity="other">%d hari lagi</item>
+        <item quantity="one">%d hari lagi</item>
+    </plurals>
+    <plurals name="day_before">
+        <item quantity="other">%d hari lalu</item>
+        <item quantity="one">%d hari lalu</item>
+    </plurals>
+    <plurals name="draft">
+        <item quantity="other">Draf</item>
+        <item quantity="one">Draf</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">%1$d pesan akan dihapus permanen.</item>
+        <item quantity="zero">%1$d pesan akan dihapus permanen.</item>
+        <item quantity="one">%1$d pesan akan dihapus permanen.</item>
+        <item quantity="two">%1$d pesan akan dihapus permanen.</item>
+        <item quantity="few">%1$d pesan akan dihapus permanen.</item>
+        <item quantity="many">%1$d pesan akan dihapus permanen.</item>
+    </plurals>
+    <plurals name="month">
+        <item quantity="other">%d bulan</item>
+        <item quantity="one">%d bulan</item>
+    </plurals>
+    <plurals name="move_conversation">
+        <item quantity="other">Pindah %1$d percakapan</item>
+        <item quantity="zero">Pindah %1$d percakapan</item>
+        <item quantity="one">Pindahkan percakapan</item>
+        <item quantity="two">Pindah %1$d percakapan</item>
+        <item quantity="few">Pindah %1$d percakapan</item>
+        <item quantity="many">Pindah %1$d percakapan</item>
+    </plurals>
+    <plurals name="new_incoming_messages_many">
+        <item quantity="other">Tampil %1$d pesan baru.</item>
+        <item quantity="zero">Tampil %1$d pesan baru.</item>
+        <item quantity="one">Tampil pesan baru.</item>
+        <item quantity="two">Tampil %1$d pesan baru.</item>
+        <item quantity="few">Tampil %1$d pesan baru.</item>
+        <item quantity="many">Tampil %1$d pesan baru.</item>
+    </plurals>
+    <plurals name="num_selected">
+        <item quantity="other">%d terpilih</item>
+        <item quantity="zero">%d terpilih</item>
+        <item quantity="one">%d terpilih</item>
+        <item quantity="two">%d terpilih</item>
+        <item quantity="few">%d terpilih</item>
+        <item quantity="many">%d terpilih</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">%1$d pesan lama</item>
+        <item quantity="zero">%1$d pesan lama</item>
+        <item quantity="one">%1$d pesan lama</item>
+        <item quantity="two">%1$d pesan lama</item>
+        <item quantity="few">%1$d pesan lama</item>
+        <item quantity="many">%1$d pesan lama</item>
+    </plurals>
+    <plurals name="actionbar_large_unread_count">
+        <item quantity="other">%1$d+ belum dibaca</item>
+        <item quantity="one">%1$d+ belum dibaca</item>
+    </plurals>
+    <plurals name="hide_atts_remaining">
+        <item quantity="other">Sembunyikan %1$d lampiran</item>
+        <item quantity="one">Sembunyikan %1$d lampiran</item>
+    </plurals>
+    <plurals name="local_search_result">
+        <item quantity="other">%s hasil dalam pesan disinkronkan</item>
+        <item quantity="one">%s hasil dalam pesan disinkronkan</item>
+    </plurals>
+    <plurals name="more_atts_remaining">
+        <item quantity="other">%1$d tersisa</item>
+        <item quantity="one">%1$d tersisa</item>
+    </plurals>
+    <plurals name="new_messages">
+        <item quantity="other">%1$d pesan baru</item>
+        <item quantity="one">%1$d pesan baru</item>
+    </plurals>
+    <plurals name="quick_reply_hint">
+        <item quantity="other">Balas ke %1$d orang</item>
+        <item quantity="one">Balas ke %1$d orang</item>
+    </plurals>
+    <plurals name="remote_search_result">
+        <item quantity="other">%s hasil di server</item>
+        <item quantity="one">%s hasil di server</item>
+    </plurals>
+    <plurals name="unsent_messages_in_outbox">
+        <item quantity="other">%1$s tidak terkirim di %2$s</item>
+        <item quantity="one">%1$s tidak terkirim di %2$s</item>
+    </plurals>
+</resources>

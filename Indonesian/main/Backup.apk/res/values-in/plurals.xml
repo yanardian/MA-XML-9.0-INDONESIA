@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="backup_items_sysdata_tailer">
+        <item quantity="other">%d berkas data sistem</item>
+        <item quantity="one">%d berkas data sistem</item>
+    </plurals>
+    <plurals name="backup_items_app_tailer">
+        <item quantity="other">%d app data files</item>
+        <item quantity="one">%d berkas data apl</item>
+    </plurals>
+    <plurals name="data_item_count">
+        <item quantity="other">%d item</item>
+        <item quantity="one">%d item</item>
+    </plurals>
+    <plurals name="total_num">
+        <item quantity="other">%d item,</item>
+        <item quantity="one">%d item,</item>
+    </plurals>
+    <plurals name="custom_progress">
+        <item quantity="other">%d item</item>
+        <item quantity="one">%d item</item>
+    </plurals>
+    <plurals name="trans_time_format_minute">
+        <item quantity="other">%d menit</item>
+        <item quantity="one">%d menit</item>
+    </plurals>
+    <plurals name="trans_time_format_hours">
+        <item quantity="other">%d jam</item>
+        <item quantity="one">%d jam</item>
+    </plurals>
+    <plurals name="select_item_summary">
+        <item quantity="other">%1$s | %2$d item</item>
+        <item quantity="one">%1$s | %2$d item</item>
+    </plurals>
+    <plurals name="select_item_count_unit">
+        <item quantity="other">item</item>
+        <item quantity="one">item</item>
+    </plurals>
+    <plurals name="save_item_saving_summary">
+        <item quantity="other">%d item dipulihkan</item>
+        <item quantity="one">%d item dipulihkan</item>
+    </plurals>
+    <plurals name="save_item_saved_summary">
+        <item quantity="other">%d berkas terimpor dan terpulihkan</item>
+        <item quantity="one">%d berkas terimpor dan terpulihkan</item>
+    </plurals>
+    <plurals name="save_item_failed_summary_seg1">
+        <item quantity="other">"%d berkas terimpor. "</item>
+        <item quantity="one">"%d berkas terimpor. "</item>
+    </plurals>
+    <plurals name="save_item_failed_summary_seg2">
+        <item quantity="other">Impor %d berkas lagi.</item>
+        <item quantity="one">Impor %d berkas lagi.</item>
+    </plurals>
+</resources>

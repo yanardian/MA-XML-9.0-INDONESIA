@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="sync_items_close">
+        <item quantity="other">%d dimatikan</item>
+        <item quantity="one">%d dimatikan</item>
+    </plurals>
+    <plurals name="items_unsynced">
+        <item quantity="other">Items waiting to sync</item>
+        <item quantity="one">Items waiting to sync</item>
+    </plurals>
+    <plurals name="items_waiting_to_sync">
+        <item quantity="other">%d berkas belum tersinkron</item>
+        <item quantity="one">%d berkas belum tersinkron</item>
+    </plurals>
+    <plurals name="dirty_contacts_count">
+        <item quantity="other">%d kontak</item>
+        <item quantity="one">%d kontak</item>
+    </plurals>
+    <plurals name="dirty_mms_count">
+        <item quantity="other">%d pesan</item>
+        <item quantity="one">%d pesan</item>
+    </plurals>
+    <plurals name="dirty_note_count">
+        <item quantity="other">%d catatan</item>
+        <item quantity="one">%d catatan</item>
+    </plurals>
+    <plurals name="dirty_image_count">
+        <item quantity="other">%d foto</item>
+        <item quantity="one">%d foto</item>
+    </plurals>
+    <plurals name="dirty_callog_count">
+        <item quantity="other">%d catatan riwayat panggilan</item>
+        <item quantity="one">%d catatan riwayat panggilan</item>
+    </plurals>
+    <plurals name="dirty_wlan_count">
+        <item quantity="other">%d jaringan Wi-Fi</item>
+        <item quantity="one">%d jaringan Wi-Fi</item>
+    </plurals>
+    <plurals name="dirty_recorder_count">
+        <item quantity="other">%d catatan</item>
+        <item quantity="one">%d catatan</item>
+    </plurals>
+    <plurals name="dirty_music_count">
+        <item quantity="other">%d lagu</item>
+        <item quantity="one">%d lagu</item>
+    </plurals>
+    <plurals name="dirty_browser_count">
+        <item quantity="other">%d item browser</item>
+        <item quantity="one">%d item browser</item>
+    </plurals>
+    <plurals name="dirty_calendar_count">
+        <item quantity="other">%d item kalender</item>
+        <item quantity="one">%d item kalender</item>
+    </plurals>
+    <plurals name="dirty_blocklist_count">
+        <item quantity="other">%d entri daftar blokir</item>
+        <item quantity="one">%d entri daftar blokir</item>
+    </plurals>
+    <plurals name="dirty_secretphoto_count">
+        <item quantity="other">"%d foto tersembunyi belum tersinkron. Anda dapat keluar setelah semua berkas tersinkron, jika tidak maka berkas, foto yang belum tersinkron akan terhapus."</item>
+        <item quantity="one">"%d foto tersembunyi belum tersinkron. Anda dapat keluar setelah semua berkas tersinkron, jika tidak maka berkas, foto yang belun tersinkron akan terhapus."</item>
+    </plurals>
+    <plurals name="micloud_main_resume_sync_hour">
+        <item quantity="other">Lanjutkan sinkron setelah %d jam lagi</item>
+        <item quantity="one">Lanjutkan sinkron setelah %d jam lagi</item>
+    </plurals>
+    <plurals name="micloud_main_resume_sync_min">
+        <item quantity="other">Lanjutkan sinkron setelah %d menit lagi</item>
+        <item quantity="one">Lanjutkan sinkron setelah %d menit lagi</item>
+    </plurals>
+</resources>

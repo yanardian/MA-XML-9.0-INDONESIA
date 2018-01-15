@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="updated_contacts">
+        <item quantity="other">%s kontak diperbarui</item>
+        <item quantity="one">%s kontak diperbarui</item>
+    </plurals>
+    <plurals name="view_all_devices">
+        <item quantity="other">Lihat %d perangkat</item>
+        <item quantity="one">Lihat %d perangkat</item>
+    </plurals>
+    <plurals name="view_all_apps">
+        <item quantity="other">Lihat %d apl</item>
+        <item quantity="one">Lihat %d apl</item>
+    </plurals>
+    <plurals name="view_all_browsers">
+        <item quantity="other">Lihat %d browseritem>
+        <item quantity="one">Lihat %d browser</item>
+    </plurals>
+</resources>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="adblock_rules_number_text">
+        <item quantity="other">%d iklan terblokir</item>
+        <item quantity="one">%d iklan terblokir</item>
+    </plurals>
+    <plurals name="find_on_page_matches">
+        <item quantity="other">%d cocok</item>
+        <item quantity="one">%d cocok</item>
+    </plurals>
+    <plurals name="last_num_days">
+        <item quantity="other">%d hari terakhir</item>
+        <item quantity="one">%d hari terakhir</item>
+    </plurals>
+    <plurals name="matches_found">
+        <item quantity="other">%1$d dari %2$d</item>
+        <item quantity="one">1 cocok</item>
+    </plurals>
+    <plurals name="nav_screen_incognito_time">
+        <item quantity="other">Setelah %d detik otomatis akan membuat halaman baru</item>
+        <item quantity="one">Setelah %d detik otomatis akan membuat halaman baru</item>
+    </plurals>
+    <plurals name="transfer_prompt">
+        <item quantity="other">Mainkan video didetik ke %1$d</item>
+        <item quantity="one">Mainkan video didetik ke %1$d</item>
+    </plurals>
+    <plurals name="v5_edit_mode_title">
+        <item quantity="other">%1$d terpilih</item>
+        <item quantity="one">%1$d terpilih</item>
+    </plurals>
+    <plurals name="video_download_clear_info">
+        <item quantity="other">%1$d video telah dihapus.</item>
+        <item quantity="one">%1$d video telah dihapus.</item>
+    </plurals>
+    <plurals name="video_download_clear_prompt">
+        <item quantity="other">Hapus %1$d video?</item>
+        <item quantity="one">Hapus %1$d video?</item>
+    </plurals>
+    <plurals name="video_history_clear_info">
+        <item quantity="other">%1$d video dihapus dari riwayat.</item>
+        <item quantity="one">%1$d video dihapus dari riwayat.</item>
+    </plurals>
+    <plurals name="video_history_clear_prompt">
+        <item quantity="other">Hapus %1$d video dari riwayat?</item>
+        <item quantity="one">Hapus %1$d video dari riwayat?</item>
+    </plurals>
+    <plurals name="video_subtitle_last_message">
+        <item quantity="other">Sisa %d menit</item>
+        <item quantity="one">Sisa %d menit</item>
+    </plurals>
+</resources>

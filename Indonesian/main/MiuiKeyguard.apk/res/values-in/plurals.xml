@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="incorrect_pukcode_remaining_attempts">
+        <item quantity="other">Kode PUK salah, %d upaya tersisa</item>
+        <item quantity="one">Kode PUK salah, %d upaya tersisa</item>
+    </plurals>
+    <plurals name="incorrect_pincode_remaining_attempts">
+        <item quantity="other">Kode PIN salah, %d upaya tersisa</item>
+        <item quantity="one">Kode PIN salah, %d upaya tersisa</item>
+    </plurals>
+    <plurals name="phone_locked_timeout_seconds_string">
+        <item quantity="other">Coba lagi setelah %d detik</item>
+        <item quantity="one">Coba lagi setelah %d detik</item>
+    </plurals>
+    <plurals name="phone_locked_timeout_minutes_string">
+        <item quantity="other">Coba lagi setelah %d menit</item>
+        <item quantity="one">Coba lagi setelah %d menit</item>
+    </plurals>
+    <plurals name="new_notifications_msg">
+        <item quantity="other">%d notifikasi baru</item>
+        <item quantity="one">%d notifikasi baru</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_charging_full_need_min_time__text">
+        <item quantity="other">%d menit lagi hingga penuh</item>
+        <item quantity="one">%d menit lagi hingga penuh​</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_charging_full_need_hour_time__text">
+        <item quantity="other">%d jam lagi hingga penuh</item>
+        <item quantity="one">%d jam lagi hingga penuh</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_charging_full_need_time__text">
+        <item quantity="other">%1$d j %2$d m lagi hingga penuh</item>
+        <item quantity="one">%1$d j %2$d m lagi hingga penuh</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_could_use_min_time_text">
+        <item quantity="other">Sisa %d menit lagi</item>
+        <item quantity="one">Sisa %d menit lagi</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_could_use_hour_time_text">
+        <item quantity="other">Sisa %d jam lagi</item>
+        <item quantity="one">Sisa %d jam lagi</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_could_use_time_text">
+        <item quantity="other">Sisa %1$d j %2$d m lagi</item>
+        <item quantity="one">Sisa %1$d j %2$d m lagi</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_drained_hour_time_format">
+        <item quantity="other">%d jam</item>
+        <item quantity="one">%d jam</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_drained_min_time_format">
+        <item quantity="other">%d menit</item>
+        <item quantity="one">%d menit</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_drained_time_format">
+        <item quantity="other">%1$d j %2$d m</item>
+        <item quantity="one">%1$d j %2$d m</item>
+    </plurals>
+</resources>

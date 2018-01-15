@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">HybridAccessory</string>
+  <string name="short_cut_dialog_cancel_button_text">Tidak</string>
+  <string name="short_cut_dialog_cotent">Aplikasi berikut dapat digunakan tanpa instalasi. Simpan pintasan?</string>
+  <string name="short_cut_dialog_create_button_text">Ya</string>
+  <string name="short_cut_dialog_not_tip_check_box">"Jangan ingatkan lagi dalam 2 minggu"</string>
+  <string name="short_cut_dialog_title">Buat pintasan</string>
+</resources>

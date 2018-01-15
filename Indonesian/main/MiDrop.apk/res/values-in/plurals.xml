@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="sender_file_num">
+        <item quantity="other">Menunggu %1$d berkas…</item>
+        <item quantity="one">Menunggu %1$d berkas…</item>
+    </plurals>
+    <plurals name="receiver_file_num">
+        <item quantity="other">%2$d berkas dari %1$s</item>
+        <item quantity="one">%2$d berkas dari %1$s</item>
+    </plurals>
+    <plurals name="receiver_file_current">
+        <item quantity="other">Menerima %2$d berkas dari %1$s…</item>
+        <item quantity="one">Menerima %2$d berkas dari %1$s…</item>
+    </plurals>
+    <plurals name="receiver_pic_file_num">
+        <item quantity="other">%2$d gambar dari %1$s</item>
+        <item quantity="one">%2$d gambar dari %1$s</item>
+    </plurals>
+    <plurals name="receiver_pic_file_current">
+        <item quantity="other">Menerima %2$d gambar dari %1$s…</item>
+        <item quantity="one">Menerima %2$d gambar dari %1$s…</item>
+    </plurals>
+    <plurals name="receiver_audio_file_num">
+        <item quantity="other">%2$d lagu dari %1$s</item>
+        <item quantity="one">%2$d lagu dari %1$s</item>
+    </plurals>
+    <plurals name="receiver_audio_file_current">
+        <item quantity="other">Menerima %2$d lagu dari %1$s…</item>
+        <item quantity="one">Menerima %2$d lagu dari %1$s…</item>
+    </plurals>
+    <plurals name="receiver_video_file_num">
+        <item quantity="other">%2$d video dari %1$s</item>
+        <item quantity="one">%2$d video dari %1$s</item>
+    </plurals>
+    <plurals name="receiver_video_file_current">
+        <item quantity="other">Menerima %2$d videos dari %1$s…</item>
+        <item quantity="one">Menerima %2$d video dari %1$s…</item>
+    </plurals>
+    <plurals name="receiver_apk_file_num">
+        <item quantity="other">%2$d apl dari %1$s</item>
+        <item quantity="one">%2$d apl dari %1$s</item>
+    </plurals>
+    <plurals name="receiver_apk_file_current">
+        <item quantity="other">Menerima %2$d apl dari %1$s…</item>
+        <item quantity="one">Menerima %2$d apl dari %1$s…</item>
+    </plurals>
+    <plurals name="notif_receive_progress">
+        <item quantity="other">Menerima %1$s berkas…</item>
+        <item quantity="one">Menerima %1$s berkas…</item>
+    </plurals>
+    <plurals name="notif_receive_cancel">
+        <item quantity="other">Transfer dari %1$s dibatalkan</item>
+        <item quantity="one">Transfer dari %1$s dibatalkan</item>
+    </plurals>
+    <plurals name="notif_receive_success">
+        <item quantity="other">Berhasil menerima berkas dari %1$s</item>
+        <item quantity="one">Berhasil menerima berkas dari %1$s</item>
+    </plurals>
+</resources>

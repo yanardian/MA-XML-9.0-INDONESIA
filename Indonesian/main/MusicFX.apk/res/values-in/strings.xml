@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">MusicFX</string>
+  <string name="bass_boost_strength">Peningkatan bass</string>
+  <string name="ci_extreme">Penguat FX</string>
+  <string name="eq_dialog_title">Ekualizer</string>
+  <string name="classical">Classical</string>
+  <string name="combo_device">Efek yang didukung hanya pada pemutaran headphone.</string>
+  <string name="dance">Dance</string>
+  <string name="eq_custom">Untuk menyesuaikan, pilih Custom</string>
+  <string name="eq_dialog_title">Snapdragon Audio+</string>
+  <string name="flat">Flat</string>
+  <string name="folk">Folk</string>
+  <string name="headset_plug">Pasang headphone untuk efek ini.</string>
+  <string name="heavy_metal">Heavy Metal</string>
+  <string name="hip_hop">Hip Hop</string>
+  <string name="jazz">Jazz</string>
+  <string name="largehall">LargeHall</string>
+  <string name="largeroom">LargeRoom</string>
+  <string name="main_toggle_effects_title">Audio effects</string>
+  <string name="mediumhall">MediumHall</string>
+  <string name="mediumroom">MediumRoom</string>
+  <string name="new_app_name">AudioEffect</string>
+  <string name="no_effects">Efek tidak tersedia.</string>
+  <string name="picker_title">Panel kontrol efek musik</string>
+  <string name="none">None</string>
+  <string name="normal">Normal</string>
+  <string name="picker_title">Music effects control panel</string>
+  <string name="plate">Plate</string>
+  <string name="setup">Penyiapan</string>
+  <string name="power_on_prompt">Tekan tombol daya di kanan atas.</string>
+  <string name="pr_dialog_title">Reverb preset</string>
+  <string name="pr_summary">Additional room reverberation effects</string>
+  <string name="pr_title">Reverb</string>
+  <string name="rock">Rock</string>
+  <string name="setup">Konfigurasi</string>
+  <string name="smallroom">SmallRoom</string>
+  <string name="toggle_button_off">Mati</string>
+  <string name="toggle_button_on">Nyala</string>
+  <string name="user">Pengguna</string>
+  <string name="virtualizer_strength">Suara surround</string>
+  </resources>

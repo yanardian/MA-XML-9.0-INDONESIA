@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reproductivity">
+        <item>Setiap saat</item>
+        <item>Sering</item>
+        <item>Kadang</item>
+        <item>Sekali</item>
+    </string-array>
+</resources>

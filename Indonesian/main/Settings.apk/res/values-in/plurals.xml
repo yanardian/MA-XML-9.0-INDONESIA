@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="status_bar_settings_disabled_header_title">
+        <item quantity="other">"%d apl tidak bisa menampilkan notifikasi"</item>
+        <item quantity="one">"%d apl tidak bisa menampilkan notifikasi"</item>
+    </plurals>
+    <plurals name="status_bar_settings_enabled_header_title">
+        <item quantity="other">%d apl bisa menampilkan notifikasi</item>
+        <item quantity="one">%d apl bisa menampilkan notifikasi</item>
+    </plurals>
+    <plurals name="settings_toggle_position_divider_page">
+        <item quantity="other">%1$d toggle akan ditampilkan di bar notifikasi</item>
+        <item quantity="one">%1$d toggle akan ditampilkan di bar notifikasi</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">Tinggal %1$d langkah untuk menjadi pengembang.</item>
+        <item quantity="one">Tinggal %1$d langkah untuk menjadi pengembang.</item>
+    </plurals>
+    <plurals name="dlg_remove_locales_title">
+        <item quantity="other">Hapus bahasa yang dipilih?</item>
+        <item quantity="one">Hapus bahasa yang dipilih?</item>
+    </plurals>
+    <plurals name="security_settings_fingerprint_preference_summary">
+        <item quantity="other">%1$d sidik jari disiapkan</item>
+        <item quantity="one">%1$d sidik jari disiapkan</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">Sandi harus terdiri dari minimal %d huruf.</item>
+        <item quantity="one">Sandi harus terdiri dari minimal 1 huruf.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">Sandi harus terdiri dari minimal %d huruf kecil.</item>
+        <item quantity="one">Sandi harus terdiri dari minimal 1 huruf kecil.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">Sandi harus terdiri dari minimal %d huruf besar.</item>
+        <item quantity="one">Sandi harus terdiri dari minimal 1 huruf besar.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">Sandi harus terdari dari minimal %d digit numerik.</item>
+        <item quantity="one">Sandi harus terdari dari minimal 1 digit numerik.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">Sandi harus terdiri dari minimal %d simbol khusus.</item>
+        <item quantity="one">Sandi harus terdiri dari minimal 1 simbol khusus.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Sandi harus terdiri dari minimal %d karakter bukan huruf.</item>
+        <item quantity="one">Sandi harus terdiri dari minimal 1 karakter bukan huruf.</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">Kode PIN SIM salah, sisa %d percobaan.</item>
+        <item quantity="one">Kode PIN SIM salah, sisa %d percobaan sebelum Anda harus menghubungi operator untuk membuka kunci perangkat.</item>
+    </plurals>
+    <plurals name="uri_permissions_text">
+        <item quantity="other">%d item</item>
+        <item quantity="one">1 item</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_extremely_short_delay">
+        <item quantity="other">Penundaan terlalu singkat (%1$d md)</item>
+        <item quantity="one">Penundaan terlalu singkat (%1$d md)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_very_short_delay">
+        <item quantity="other">Penundaan sangat singkat (%1$d md)</item>
+        <item quantity="one">Penundaan sangat singkat (%1$d md)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_short_delay">
+        <item quantity="other">Penundaan singkat (%1$d md)</item>
+        <item quantity="one">Penundaan singkat (%1$d md)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_long_delay">
+        <item quantity="other">Penundaan lama (%1$d md)</item>
+        <item quantity="one">Penundaan lama (%1$d md)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_very_long_delay">
+        <item quantity="other">Penundaan sangat lama (%1$d md)</item>
+        <item quantity="one">Penundaan sangat lama (%1$d md)</item>
+    </plurals>
+    <plurals name="print_settings_title">
+        <item quantity="other">%d tugas pencetakan</item>
+        <item quantity="one">1 tugas pencetakan</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_dialog_title">
+        <item quantity="other">Percayai atau hapus sertifikat</item>
+        <item quantity="one">Percayai atau hapus sertifikat</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_info_message_device_owner">
+        <item quantity="other">"%s telah memasang otoritas sertifikat di perangkat Anda, yang mungkin mengizinkan mereka memantau aktivitas jaringan perangkat, termasuk email, aplikasi, dan situs web aman.
+
+Untuk informasi selengkapnya tentang sertifikat ini, hubungi admin."</item>
+        <item quantity="one">"%s telah memasang otoritas sertifikat di perangkat Anda, yang mungkin mengizinkan mereka memantau aktivitas jaringan perangkat, termasuk email, aplikasi, dan situs web aman.
+
+Untuk informasi selengkapnya tentang sertifikat ini, hubungi admin."</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_info_message">
+        <item quantity="other">"%s telah memasang otoritas sertifikat untuk profil kerja Anda, yang mungkin mengizinkan mereka memantau aktivitas jaringan kerja, termasuk email, aplikasi, dan situs web aman.
+
+Untuk informasi selengkapnya tentang sertifikat ini, hubungi admin."</item>
+        <item quantity="one">"%s telah memasang otoritas sertifikat untuk profil kerja Anda, yang mungkin mengizinkan mereka memantau aktivitas jaringan kerja, termasuk email, aplikasi, dan situs web aman.
+
+Untuk informasi selengkapnya tentang sertifikat ini, hubungi admin."</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_settings_button">
+        <item quantity="other">Check certificates</item>
+        <item quantity="one">Check certificate</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">%d apps can read notifications</item>
+        <item quantity="one">%d app can read notifications</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_minute">
+        <item quantity="other">Change to alarms only for %1$d minutes (until %2$s)</item>
+        <item quantity="one">Change to alarms only for one minute until %2$s</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_hour">
+        <item quantity="other">Change to alarms only for %1$d hours until %2$s</item>
+        <item quantity="one">Change to alarms only for one hour until %2$s</item>
+    </plurals>
+    <plurals name="permissions_summary">
+        <item quantity="other">%d permissions granted</item>
+        <item quantity="one">%d permission granted</item>
+    </plurals>
+    <plurals name="runtime_permissions_summary">
+        <item quantity="other">%1$d of %2$d permissions granted</item>
+        <item quantity="one">%1$d of %2$d permission granted</item>
+    </plurals>
+    <plurals name="runtime_permissions_additional_count">
+        <item quantity="other">%d additional permissions</item>
+        <item quantity="one">%d additional permission</item>
+    </plurals>
+    <plurals name="domain_urls_apps_summary">
+        <item quantity="other">%d apps can open their supported links</item>
+        <item quantity="zero">Tidak ada aplikasi yang dapat membuka tautan yang didukung</item>
+        <item quantity="one">One app can open its supported links</item>
+    </plurals>
+    <plurals name="high_power_count">
+        <item quantity="other">%d apps allowed to ignore battery optimization</item>
+        <item quantity="one">1 app allowed to ignore battery optimization</item>
+    </plurals>
+    <plurals name="memory_usage_apps_summary">
+        <item quantity="other">%1$d apps used memory in the last %2$s</item>
+        <item quantity="one">1 app used memory in the last %2$s</item>
+    </plurals>
+    <plurals name="notification_summary">
+        <item quantity="other">%d apps blocked from sending</item>
+        <item quantity="one">%d app blocked from sending</item>
+    </plurals>
+    <plurals name="data_saver_unrestricted_summary">
+        <item quantity="other">%1$d aplikasi diizinkan untuk menggunakan data yang tidak dibatasi jika Penghemat Data aktif</item>
+        <item quantity="one">1 aplikasi diizinkan untuk menggunakan data yang tidak dibatasi jika Penghemat Data aktif</item>
+    </plurals>
+    <plurals name="virus_scan_app_find_risk">
+        <item quantity="other">%d risiko ditemukan</item>
+        <item quantity="one">%d risiko ditemukan</item>
+    </plurals>
+    <plurals name="auto_startup_count">
+        <item quantity="other">%d apl diizinkan untuk mulai otomatis</item>
+        <item quantity="one">%d apl diizinkan untuk mulai otomatis</item>
+    </plurals>
+    <plurals name="lockpassword_pin_fixed_length">
+        <item quantity="other">PIN harus %d digit</item>
+        <item quantity="one">PIN harus %d digit</item>
+    </plurals>
+    <plurals name="wifi_share_count">
+        <item quantity="other">Berbagi %d jaringan</item>
+        <item quantity="one">Berbagi %d jaringan</item>
+    </plurals>
+    <plurals name="connected_devices_number">
+        <item quantity="other">%d perangkat</item>
+        <item quantity="one">%d perangkat</item>
+    </plurals>
+    <plurals name="free_wifi_connected_count">
+        <item quantity="other">%1$d orang terhubung</item>
+        <item quantity="one">%1$d orang terhubung</item>
+    </plurals>
+    <plurals name="show_pho_countdown">
+        <item quantity="other">"Tinggal %1$d langkah lagi utk memasuki info telepon."</item>
+        <item quantity="one">"Tinggal %1$d langkah lagi utk memasuki info telepon."</item>
+    </plurals>
+    <plurals name="show_cit_countdown">
+        <item quantity="other">"Tinggal %1$d langkah lagi dari memasuki CIT."</item>
+        <item quantity="one">"Tinggal %1$d langkah lagi dari memasuki CIT."</item>
+    </plurals>
+    <plurals name="show_rep_countdown">
+        <item quantity="other">"Tinggal %1$d langkah lagi dr melapor bug."</item>
+        <item quantity="one">"Tinggal %1$d langkah lagi dr melapor bug."</item>
+    </plurals>
+    <plurals name="auto_disable_screenbuttons_enabled_header_title">
+        <item quantity="other">Selalu nonaktifkan untuk %d apl</item>
+        <item quantity="one">Selalu nonaktifkan untuk 1 apl</item>
+    </plurals>
+    <plurals name="auto_disable_screenbuttons_disabled_header_title">
+        <item quantity="other">Jangan nonaktifkan untuk %d apl</item>
+        <item quantity="one">Jangan nonaktifkan untuk %d apl</item>
+    </plurals>
+    <plurals name="lockpassword_pin_too_short">
+        <item quantity="other">Panjang PIN harus %d digit</item>
+        <item quantity="one">Panjang PIN harus %d digit</item>
+    </plurals>
+    <plurals name="lockpassword_pin_too_long">
+        <item quantity="other">Maksimum PIN %d digit</item>
+        <item quantity="one">Maksimum PIN %d digit</item>
+    </plurals>
+    <plurals name="lockpattern_recording_incorrect_too_short">
+        <item quantity="other">Hubungkan minimal %d titik. Coba lagi.</item>
+        <item quantity="one">Hubungkan minimal %d titik. Coba lagi.</item>
+    </plurals>
+    <plurals name="lockpattern_too_many_failed_confirmation_attempts">
+        <item quantity="other">Terlalu banyak upaya. Coba lagi setelah %d detik.</item>
+        <item quantity="one">Terlalu banyak upaya. Coba lagi setelah %d detik.</item>
+    </plurals>
+    <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
+        <item quantity="other">Tunggu %d detik dan coba lagi.</item>
+        <item quantity="one">Tunggu %d detik dan coba lagi.</item>
+    </plurals>
+</resources>
