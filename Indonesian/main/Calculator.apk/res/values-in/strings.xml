@@ -178,7 +178,7 @@
   <string name="rightParen">)</string>
   <string name="rightParenDesc">kutip ganda kanan</string>
   <string name="scannerDesc">Pemindai</string>
-  <string name="scanner_had_been_uninstalled">Pemindai diuninstal</string>
+  <string name="scanner_had_been_uninstalled">Pemindai telah diuninstal</string>
   <string name="secondFunctionDesc">Ganti ke fungsi kedua</string>
   <string name="settingsDesc">setelan</string>
   <string name="sin">sin</string>

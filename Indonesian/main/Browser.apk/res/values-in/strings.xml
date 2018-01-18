@@ -51,7 +51,7 @@
   <string name="action_menu_toolbox">Alat</string>
   <string name="action_menu_useful_page">Tambah pintasan</string>
   <string name="action_menu_useful_page_added">Ditambahkan ke halaman awal</string>
-  <string name="action_menu_user_center">Pusat pengguna</string>
+  <string name="action_menu_user_center">Profil</string>
   <string name="action_modify_bookmark">Ubah bookmark</string>
   <string name="action_put_in_search_box">Masukkan %s di kotak pencarian</string>
   <string name="actionbar_share">Berbagi</string>
@@ -571,8 +571,8 @@ Unduhan dan bookmark yang Anda tambahkan masih akan disimpan."</string>
   <string name="ok">Oke</string>
   <string name="older">Lebih lama</string>
   <string name="open_app_confirm_message">Izinkan halaman ini untuk membuka %s?</string>
-  <string name="open_cloud_sync">Buka sinkronisasi awan</string>
-  <string name="open_cloud_sync_desc">Bookmark ditambahkan. Aktifkan sinkronisasi awan dan bookmark yang ditambahkan pada perangkat lain akan disinkronisasikan ke perangkat ini. Masuk dan buka, sekarang?</string>
+  <string name="open_cloud_sync">Hidupkan sinkron dengan Mi Cloud</string>
+  <string name="open_cloud_sync_desc">Bookmark berhasil ditambahkan. Aktifkan sinkronisasi dengan Mi Cloud untuk menyinkronkan bookmark yang ditambahkan pada perangkat lain. Masuk dan aktifkan??</string>
   <string name="open_app_confirm_message">Izinkan halaman ini untuk buka %s?</string>
   <string name="open_file_explorer_failed">Tidak dapat buka apl Berkas Saya</string>
   <string name="open_private_folder">Lepas untuk lihat folder tersembunyi</string>
@@ -831,7 +831,7 @@ Begitulah cara kami menggunakan data yang kami kumpulkan:
 1. Keamanan: Kami menggunakan data Anda saat kami melindungi perangkat dari penipuan dan virus, serta untuk alasan penyimpanan dan pencadangan.
 2. Konten: Data Anda membantu kami menyediakan konten berita lokal yang relevan.
 Browser perlu terhubung ke internet agar bisa bekerja normal. Anda harus menyetujui %2$s dan %1$s untuk dapat menggunakan Browser."</string>  
-  <string name="sign_and_open">Masuk dan buka</string>
+  <string name="sign_and_open">Masuk dan aktifkan</string>
   <string name="sign_in_to" formatted="false">Masuk ke %s1 %s2\"</string>
   <string name="site_sort_des">Seret item untuk atur ulang urutan</string>
   <string name="skip_button_label">Lewati</string>

@@ -482,6 +482,7 @@
   <string name="wechat_copying_video_dialog_title">Ekspor ke Galery</string>
   <string name="wechat_copying_video_empty">Tidak ada video untuk diekspor</string>
   <string name="wechat_copying_video_success">Berhasil mengekspor</string>
+  <string name="wechat_qq_activity_title">Pembersihan mendalam</string>
   <string name="wechat_qq_celan_tab_file">Berkas</string>
   <string name="wechat_qq_celan_tab_image">Gambar</string>
   <string name="wechat_qq_celan_tab_video">Video</string>

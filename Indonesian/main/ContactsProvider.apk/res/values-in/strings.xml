@@ -23,6 +23,7 @@
   <string name="send_sms">Kirim pesan</string>
   <string name="sharedUserLabel">Apl Inti Android</string>
   <string name="third_party_delete_contact_info">"\"%s\" mencoba untuk menghapus kontak Anda Tindakan ini tidak dapat dilakukan oleh aplikasi pihak ketiga Untuk menghapus kontak, gunakan aplikasi Kenalan bawaan MIUI sebagai gantinya."</string>
+  <string name="update_accounts_changed">Akun berubah</string>
   <string name="upgrade_msg">Memperbarui database kontak.</string>
   <string name="upgrade_out_of_memory_notification_text">Ketuk untuk menyelesaikan update.</string>
   <string name="upgrade_out_of_memory_notification_ticker">Update membutuhkan lebih banyak memori.</string>

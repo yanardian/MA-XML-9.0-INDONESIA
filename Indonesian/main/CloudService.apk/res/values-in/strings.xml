@@ -294,11 +294,11 @@ Untuk memperbaikinya, Anda dapat membersihkan beberapa berkas lama untuk membuat
   <string name="micloud_main_error_activated_fail">Aktivasi kartu SIM Anda.</string>
   <string name="micloud_main_error_network_disallowed">Pastikan Anda telah mengizinkan akses ke internet.</string>
   <string name="micloud_main_error_permission_limit">Izinkan Mi Cloud akses penyimpanan.</string>
-  <string name="micloud_main_head_menu_cloud_backup">Cadangan Cloud</string>
-  <string name="micloud_main_head_menu_recycle_bin_summary">Cadangkan kontak, foto</string>
+  <string name="micloud_main_head_menu_cloud_backup">Cadangkan beranda</string>
+  <string name="micloud_main_head_menu_recycle_bin_summary">Kembalikan item yang terhapus</string>
   <string name="micloud_main_head_menu_recycle_bin_title">Tempat sampah</string>
-  <string name="micloud_main_head_menu_state_close">Ditutup</string>
-  <string name="micloud_main_head_menu_state_open">Dibuka</string>
+  <string name="micloud_main_head_menu_state_close">Tutup</string>
+  <string name="micloud_main_head_menu_state_open">Buka</string>
   <string name="micloud_main_head_menu_state_unavailable">Tidak tersedia</string>
   <string name="micloud_main_last_sync_time">Sinkron terakhir %s</string>
   <string name="micloud_main_master_sync_on">Sinkron hidup</string>
@@ -580,9 +580,9 @@ Fitur ini mengenkripsi dan mengirim ID perangkat Anda ke server Mi. "</ String>
   <string name="verify">Verifikasi</string>
   <string name="view_storage_title">Ruang penyimpanan</string>
   <string name="virtual_sim_desc">Hidupkan Mi SIM untuk mencari perangkat tanpa kartu SIM</string>
-  <string name="voip_choose_sim">Pilih nomor telepon untuk aktivasi Mi Voice</string>
+  <string name="voip_choose_sim">Pilih nomor ponsel untuk aktivasi Mi Voice</string>
   <string name="wipe_data_dialog_button_check_sync">Periksa sinkronisasi</string>
-  <string name="wipe_data_dialog_msg">%s tidak tersinkron dan akan tetap ada di telepon Anda.</string>
+  <string name="wipe_data_dialog_msg">%s tidak tersinkron dan akan tetap ada di ponsel Anda.</string>
   <string name="wipe_data_dialog_msg_and_on">, dan beberapa item lainnya</string>
   <string name="wipe_data_dialog_msg_separator">, </string>
   <string name="wipe_data_dialog_title">Beberapa data belum tersinkron</string>

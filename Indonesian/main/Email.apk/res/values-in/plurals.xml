@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="actionbar_large_unread_count">
+        <item quantity="other">%1$d+ belum dibaca</item>
+        <item quantity="one">%1$d+ belum dibaca</item>
+    </plurals>
     <plurals name="actionbar_unread_messages">
         <item quantity="other">%1$d belum dibaca</item>
+        <item quantity="one">%1$d belum dibaca</item>
     </plurals>
     <plurals name="confirm_archive_conversation">
         <item quantity="other">Arsipkan %1$d percakapan ini?</item>
@@ -97,10 +102,22 @@
         <item quantity="two">%1$d pesan akan dihapus permanen.</item>
         <item quantity="few">%1$d pesan akan dihapus permanen.</item>
         <item quantity="many">%1$d pesan akan dihapus permanen.</item>
+		</plurals>
+    <plurals name="hide_atts_remaining">
+    <item quantity="other">Sembunyikan %1$d lampiran</item>
+        <item quantity="one">Sembunyikan %1$d lampiran</item>
+    </plurals>
+    <plurals name="local_search_result">
+        <item quantity="other">%s hasil pesan yang disinkronkan</item>
+        <item quantity="one">%s hasil pesan yang disinkronkan</item>
     </plurals>
     <plurals name="month">
         <item quantity="other">%d bulan</item>
         <item quantity="one">%d bulan</item>
+    <plurals name="more_atts_remaining">
+        <item quantity="other">%1$d lampiran yang tersisa</item>
+        <item quantity="one">%1$d lampiran yang tersisa</item>
+    </plurals>
     </plurals>
     <plurals name="move_conversation">
         <item quantity="other">Pindah %1$d percakapan</item>
@@ -118,6 +135,10 @@
         <item quantity="few">Tampil %1$d pesan baru.</item>
         <item quantity="many">Tampil %1$d pesan baru.</item>
     </plurals>
+	<plurals name="new_messages">
+       <item quantity="other">%1$d pesan baru</item>
+        <item quantity="one">%1$d pesan baru</item>
+      </plurals>		      </plurals>
     <plurals name="num_selected">
         <item quantity="other">%d terpilih</item>
         <item quantity="zero">%d terpilih</item>
@@ -159,11 +180,14 @@
         <item quantity="one">Balas ke %1$d orang</item>
     </plurals>
     <plurals name="remote_search_result">
-        <item quantity="other">%s hasil di server</item>
-        <item quantity="one">%s hasil di server</item>
+        <item quantity="other">%s hasil di semua akun</item>
+        <item quantity="one">%s hasil di semua akun</item>
+	<plurals name="show_messages_read">
+        <item quantity="other">%1$d pesan lama</item>
+        <item quantity="one">%1$d pesan lama</item>
     </plurals>
     <plurals name="unsent_messages_in_outbox">
-        <item quantity="other">%1$s tidak terkirim di %2$s</item>
-        <item quantity="one">%1$s tidak terkirim di %2$s</item>
+        <item quantity="other">%1$s pesan tidak terkirim di %2$s</item>
+        <item quantity="one">%1$s pesan tidak terkirim di %2$s</item>
     </plurals>
 </resources>
