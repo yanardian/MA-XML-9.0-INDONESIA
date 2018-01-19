@@ -239,6 +239,18 @@
         <item quantity="other">"Tidak dapat berbagi. Masih memproses %d foto…"</item>
         <item quantity="one">"Tidak dapat berbagi. Masih memproses %d foto…"</item>
     </plurals>	
+	    <plurals name="slim_complete_photo_count">
+        <item quantity="other">%d foto dioptimalkan</item>
+        <item quantity="one">%d foto dioptimalkan</item>
+    </plurals>
+    <plurals name="slim_exit_dialog_message">
+        <item quantity="other">"%d foto belum dioptimalkan. Berhenti sekarang?"</item>
+        <item quantity="one">"%d foto belum dioptimalkan. Berhenti sekarang?"</item>
+    </plurals>
+    <plurals name="slim_remain_photo_count">
+        <item quantity="other">%d foto tersisa</item>
+        <item quantity="one">%d foto tersisa</item>
+    </plurals>
     <plurals name="sync_error_title">
         <item quantity="other">"%d foto dan video belum dicadangkan"</item>
         <item quantity="one">"Foto dan video belum dicadangkan"</item>

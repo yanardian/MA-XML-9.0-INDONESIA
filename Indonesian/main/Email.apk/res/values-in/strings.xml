@@ -217,8 +217,8 @@
   <string name="auto_advance_help_title">Setelah hapus pesan, lihat…</string>
   <string name="auto_advance_label">Arus hapus pesan</string>
   <string name="auto_advance_summary">Pilih pesan mana yang digulir setelah hapus sebuah pesan</string>
-  <string name="auto_login_fail">Login otomatis gagal</string>
-  <string name="auto_login_fail_to_retry">Login otomatis gagal, coba lagi.</string>
+  <string name="auto_login_fail">Tidak dapat masuk secara otomatis</string>
+  <string name="auto_login_fail_to_retry">Tidak dapat masuk secara otomatis, coba lagi.</string>
   <string name="auto_mail_describe">Layanan konfigurasi otomatis Email 139 dapat membantu Anda mengisi informasi login ke kotak surat. Apakah Anda ingin mengaktifkan fitur ini?</string>
   <string name="auto_mail_disable_txt">Nonaktif</string>
   <string name="auto_mail_enable_txt">Mulai pengaturan</string>
@@ -829,8 +829,8 @@ agar dapat menerima notifikasi pengingat tentang pembayaran dan perjalanan"</str
   <string name="push_wps_confirm_message">Coba gunakan WPS Office untuk buka lampiran ini.</string>
   <string name="push_wps_confirm_title">Coba WPS Office</string>
   <string name="push_wps_no_response_app">Tak ada aplikasi yang ditemukan untuk menangani aksi ini</string>
-  <string name="qq_auto_login_failed_cpy_pass_success">Berhasil disalin; silahkan kembali ke halaman login dan tempel untuk mengisi kolom sandi</string>
-  <string name="qq_auto_login_failed_dialog_message">Harap salin kode otorisasi, lalu kembali ke halaman login dan klik \ "masukan nama dan sandi untuk login \"; tempel untuk mengisi kolom sandi untuk login secara manual</string>
+  <string name="qq_auto_login_failed_cpy_pass_success">Berhasil disalin. Kembali ke halaman login dan tempel kode ke kolom sandi</string>
+  <string name="qq_auto_login_failed_dialog_message">Salin kode verifikasi, tekan \"Masukkan nama pengguna dan sandi untuk masuk\" di halaman masuk, dan tempelkan kode ke kolom kata sandi.</string>
   <string name="qq_auto_login_failed_dialog_positive_label">Salin kode otorisasi</string>
   <string name="qq_bar_open_imap">Bantuan</string>
   <string name="qq_bar_send_message">Kirim SMS</string>
@@ -918,7 +918,7 @@ agar dapat menerima notifikasi pengingat tentang pembayaran dan perjalanan"</str
   <string name="request_entity_large">Berkas terlalu besar</string>
   <string name="request_permission_activity">Permintaan perizinan</string>
   <string name="respond_inline">"   Respons inline"</string>
-  <string name="retry_login">masuk lagi</string>
+  <string name="retry_login">Masuk lagi</string>
   <string name="save_action">Simpan</string>
   <string name="save_attachment">Simpan</string>
   <string name="save_draft_failed">Tidak dapat simpan draft</string>

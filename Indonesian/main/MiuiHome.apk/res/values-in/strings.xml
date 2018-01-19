@@ -284,6 +284,7 @@
   <string name="sort_by_not_defined">Auto-urut</string>
   <string name="start_activity_failed">Tidak dapat memulai peluncur</string>
   <string name="starting_preset_app">Memulai…</string>
+  <string name="status_bar_notification_info_overflow">999+</string>
   <string name="status_downloaded">Terunduh</string>
   <string name="status_downloading">Mengunduh</string>
   <string name="status_installing">Menginstal</string>

@@ -14,7 +14,7 @@
   <string name="all_topic">Semua topik</string>
   <string name="already_liked">Anda sudah memfavoritkan item ini</string>
   <string name="apk_installing">Menginstal...</string>
-  <string name="app_name">Berkas</string>
+  <string name="app_name">Mi File Manager</string>
   <string name="app_name_bluetooth">Bluetooth</string>
   <string name="app_name_camera">Kamera</string>
   <string name="app_name_downloadedrom">Paket</string>
@@ -142,8 +142,8 @@
   <string name="data_consumption_cancel">Keluar</string>
   <string name="data_consumption_checkbox_hint">Jangan tampilkan lagi</string>
   <string name="data_consumption_confirm">Oke</string>
-  <string name="data_consumption_message">Apl ini butuh terhubung ke internet via Wi-Fi untuk dapat bekerja dengan normal.</string>
-  <string name="data_consumption_message1">Apl Berkas butuh terhubung ke internet agar video populer dan stiker tersedia.</string>
+  <string name="data_consumption_message">Apl ini harus terhubung ke internet via Wi-Fi untuk dapat bekerja dengan normal.</string>
+  <string name="data_consumption_message1">Mi File Manager harus terhubung ke internet agar video populer dan stiker tersedia.</string>
   <string name="data_consumption_title">Koneksi internet</string>
   <string name="decompress_cancel">Batal</string>
   <string name="decompress_confirm">Ekstrak</string>
@@ -202,7 +202,7 @@
   <string name="encrypt_error">Tidak dapat menyembunyikan berkas, coba lagi</string>
   <string name="encrypt_prefix">TERSEMBUNYI</string>
   <string name="encrypt_success">Berhasil disembunyikan</string>
-  <string name="encrypt_success_first_five">Berkas terenkripsi dan tersembunyi. Anda dapat melihatnya dengan menarik ke bawah halaman pertama dari apl Berkas.</string>
+  <string name="encrypt_success_first_five">Berkas terenkripsi dan tersembunyi. Anda dapat melihatnya dengan menarik ke bawah halaman pertama dari Mi File Manager.</string>
   <string name="encrypting">Mengenkripsi…</string>
   <string name="error_contains_sharer_path">Tidak dapat enkripsi berkas di folder /MIUI/Galeri/cloud/sharer. Pindahkan berkas ke folder lain dan coba lagi.</string>
   <string name="error_create_dir">Tidak dapat membuat folder</string>
@@ -351,7 +351,7 @@
   <string name="month_day_format">dd MMM</string>
   <string name="more">Lainnya</string>
   <string name="move_failed">Tdk dpt potong</string>
-  <string name="move_icon_to_desktop_hint">Buat pintasan apl Berkas di Layar utama untuk mengatur berkas lebih efisien.</string>
+  <string name="move_icon_to_desktop_hint">Buat pintasan Mi File Manager di Layar utama untuk mengatur berkas lebih efisien.</string>
   <string name="move_icon_to_desktop_success">Pintasan diletakkan di Layar utama.</string>
   <string name="move_to">Pindah ke…</string>
   <string name="msg_notify_setting">Setelan notifikasi</string>
@@ -362,7 +362,7 @@
   <string name="my_follows">Kabar berita saya</string>
   <string name="name_empty">Anda harus memasukkan nama.</string>
   <string name="need_login">Masuk dulu</string>
-  <string name="need_read_storage_permission">Apl Berkas membutuhkan izin untuk akses ke penyimpanan perangkat agar dapat bekerja dengan normal.</string>
+  <string name="need_read_storage_permission">Mi File Manager membutuhkan izin untuk akses ke penyimpanan perangkat agar dapat bekerja dengan normal.</string>
   <string name="network_dialog_checkbox_tip">Jangan tampilkan lagi</string>
   <string name="network_not_available">Tidak dapat terhubung ke jaringan</string>
   <string name="network_spent_reminding">Gunakan data seluler untuk melihat halaman ini? Anda akan dikenakan biaya data seluler oleh operator Anda.</string>
@@ -373,7 +373,7 @@
   <string name="no_apk">Ketuk untuk peroleh apl</string>
   <string name="no_app_tags">Kosong</string>
   <string name="no_comment">Tak ada komentar</string>
-  <string name="no_content">Buka apl Berkas lagi untuk melihat video populer</string>
+  <string name="no_content">Buka Mi File Manager lagi untuk melihat video populer</string>
   <string name="no_daren_tip">Kosong</string>
   <string name="no_downloaded_sticker_tip">Tidak dapat menemukan stiker yang terunduh. Lihat stiker yang dibagikan oleh Mi fans.</string>
   <string name="no_enough_storage_indication">Ruang penyimpanan perangkat penuh.</string>
@@ -455,8 +455,8 @@
   <string name="path_hot_video">Nonton video pendek populer</string>
   <string name="path_kuai_chuan">Gratis kirim berkas ke perangkat lain</string>
   <string name="path_recent_file">Kelola penyimpanan perangkat dan bebaskan ruang penyimpanan</string>
-  <string name="permission_denial">Tidak dapat akses berkas. Izinkan apl Berkas untuk akses berkas di Setelan.</string>
-  <string name="permission_required">Tidak dapat akses berkas. Izinkan apl Berkas untuk akses berkas di Setelan.</string>
+  <string name="permission_denial">Tidak dapat akses berkas. Izinkan Mi File Manager untuk akses berkas di Setelan.</string>
+  <string name="permission_required">Tidak dapat akses berkas. Izinkan Mi File Manager untuk akses berkas di Setelan.</string>
   <string name="petabyteShort">PB</string>
   <string name="phone">Penyimpanan internal</string>
   <string name="phone_bind_skip">Lewati</string>
@@ -484,7 +484,7 @@
   <string name="phone_storage_image_title">Gambar: </string>
   <string name="phone_storage_info_str">%1$s dari %2$s tersedia</string>
   <string name="phone_storage_other_title">Lainnya: </string>
-  <string name="phone_storage_size_tip">Perhitungan penyimpanan apl Berkas mungkin berbeda dibanding apl lain.</string>
+  <string name="phone_storage_size_tip">Perhitungan penyimpanan Mi File Manager mungkin berbeda dibanding apl lain.</string>
   <string name="phone_storage_video_title">Video: </string>
   <string name="phone_storage_zip_title">Arsip: </string>
   <string name="phone_valid_code_tip">Anda telah berkali-kali memasukkan kode ini, coba peroleh kode yang baru</string>

@@ -85,8 +85,8 @@
   <string name="confirm_export_dialog_description">Percakapan sebelumnya dgn kontak ini tdk akan disembunyikan lagi.</string>
   <string name="confirm_export_dialog_title">Hapus dari kontak pribadi</string>
   <string name="confirm_no_block_positive">Buka blokir</string>
-  <string name="confirm_no_block_title">"Unblock this number and restore all messages sent from this number? 
-(The number will be added to message whitelist)"</string>
+  <string name="confirm_no_block_title">"Buka blokir nomor ini dan pulihkan semua pesan yang dikirim dari nomor ini?
+(Nomor akan ditambahkan ke pengecualian)"</string>
   <string name="confirm_rate_limit">Sejumlah besar pesan multimedia sedang dikirim.</string>
   <string name="confirm_restore_all_title">Pulihkan semua pesan terkirim dari nomor ini?</string>
   <string name="confirm_restore_checkbox">Pulihkan pesan terblokir</string>

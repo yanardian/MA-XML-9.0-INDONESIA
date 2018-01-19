@@ -225,7 +225,7 @@
   <string name="user_locked_prompt">Buka kunci perangkat untuk akses kontak.</string>
   <string name="video_call_not_allowed_if_tty_enabled">Matikan mode TTY dulu</string>
   <string name="video_conference_caller_info_name">Panggilan konferensi %1$s</string>
-  <string name="video_crbt_title">%s Color ring back tone</string>
+  <string name="video_crbt_title">%s nada sambung video</string>
   <string name="video_switch_to_voice_call_prompt">Ganti ke panggilan suara</string>
   <string name="voicemail">Pesan suara</string>
   <string name="wait_prompt_str">"Kirim nada berikut?

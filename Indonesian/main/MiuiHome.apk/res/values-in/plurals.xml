@@ -2,7 +2,7 @@
 <resources>
 	<plurals name="announce_for_drag">
         <item quantity="other">menyeret %1$d item</item>
-        <item quantity="one">menyeret</item>
+        <item quantity="one">menyeret %1$d item</item>
     </plurals>
     <plurals name="delete_wallpapers_message">
         <item quantity="other">Hapus %1$d wallpaper?</item>

@@ -47,6 +47,7 @@
   <string name="accessibility_display_daltonizer_preference_subtitle">Fitur ini eksperimental dan dapat mempengaruhi performa.</string>
   <string name="accessibility_display_daltonizer_preference_title">Koreksi warna</string>
   <string name="accessibility_divider">Pemisah layar split</string>
+  <string name="accessibility_drag_hint_message">Seret item ke atas layar</string>
   <string name="accessibility_home">Beranda</string>
   <string name="accessibility_ime_switch_button">Tombol ganti metode masukan.</string>
   <string name="accessibility_managed_profile">Profil kerja</string>
@@ -63,8 +64,10 @@
   <string name="accessibility_recent">Apl terkini</string>
   <string name="accessibility_recent_task_exit">Panel Terkini sudah ditutup</string>
   <string name="accessibility_recent_task_locked">Terkunci, geser ke atas untuk buka.</string>
+  <string name="accessibility_recent_task_locked_state">Terkunci</string>
   <string name="accessibility_recent_task_memory_info">Total RAM: %2$s | RAM yang tersedia: %1$s. Ketuk dua kali untuk bersihkan.</string>
   <string name="accessibility_recent_task_unlocked">Kunci terbuka</string>
+  <string name="accessibility_recent_task_unlocked_state">Kunci terbuka</string>
   <string name="accessibility_recents_all_items_dismissed">Semua apl telah dipindahkan dari Terkini</string>
   <string name="accessibility_recents_item_dismissed">%s telah dipindahkan</string>
   <string name="accessibility_recents_item_launched">Memulai %s…</string>
@@ -416,9 +419,9 @@ Untuk informasi lebih lanjut, hubungi admin Anda."</string>
   <string name="monitoring_title_device_owned">Manajemen perangkat</string>
   <string name="mount_storage">Ya</string>
   <string name="nav_guide_cancel">Abaikan</string>
-  <string name="nav_guide_message">Gunakan gerakan untuk menyembunyikan/menampilkan tombol lunak.</string>
+  <string name="nav_guide_message">Gunakan gerakan untuk menyembunyikan/menampilkan tombol layar.</string>
   <string name="nav_guide_ok">Setel</string>
-  <string name="nav_guide_title">Sembunyikan tombol lunak</string>
+  <string name="nav_guide_title">Sembunyikan tombol layar</string>
   <string name="network_speed_suffix">%1$s%2$s</string>
   <string name="no_application">Tidak ada</string>
   <string name="no_multi_window_app">Tidak ada apl yang mendukung Layar split</string>

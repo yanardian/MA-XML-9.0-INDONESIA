@@ -405,7 +405,7 @@ terutama didukung oleh Ultimate Inc."</string>
   <string name="global_search_title_movie">Soundtrack film</string>
   <string name="global_search_title_prenatal">Lagu sebelum melahirkan</string>
   <string name="global_search_title_radar">Pengenalan music</string>
-  <string name="go_to_settings">Settings</string>
+  <string name="go_to_settings">Ke pengaturan</string>
   <string name="handle_later">Nanti</string>
   <string name="hide_album">Sembunyikan sampul album</string>
   <string name="hide_lyric">Sembunyikan lirik</string>
@@ -424,8 +424,8 @@ terutama didukung oleh Ultimate Inc."</string>
   <string name="impunity_declaration_ignore">Jangan tampilkan lagi</string>
   <string name="impunity_declaration_negative_text">Keluar</string>
   <string name="impunity_declaration_positive_text">Setuju</string>
-  <string name="impunity_declaration_settings">Tampil Persyaratan Layanan</string>
-  <string name="impunity_declaration_summary">Tampil Persyaratan Layanan popup untuk Layanan Baidu Online Music tiap kali apl Musik dibuka</string>
+  <string name="impunity_declaration_settings">Tampilkan Persyaratan Layanan</string>
+  <string name="impunity_declaration_summary">Tampilkan popup Persyaratan Layanan untuk Layanan Baidu Online Music tiap kali apl Musik dibuka</string>
   <string name="impunity_declaration_title">Persyaratan Layanan</string>
   <string name="in_searching_please_wait">Mencari…</string>
   <string name="individuation_recommend_message">Turn on recommendations to receive personalized suggestions based on your preferences.</string>
@@ -457,7 +457,7 @@ terutama didukung oleh Ultimate Inc."</string>
   <string name="local_music">Offline</string>
   <string name="local_music_empty">Daftar putar lokal kosong</string>
   <string name="local_music_empty_goto_online">Tak ada lagu yang ditemukan</string>
-  <string name="local_music_is_not_available">Musik lokal tidak tersedia.</string>
+  <string name="local_music_is_not_available">Anda tidak memiliki lagu di perangkat Anda.</string>
   <string name="local_page_album_more">Lihat semua</string>
   <string name="local_page_artist">Mengikuti artis</string>
   <string name="local_page_artist_more">More songs by %s</string>
@@ -603,7 +603,7 @@ terutama didukung oleh Ultimate Inc."</string>
   <string name="notification_recommend_title">Notifikasi rekomendasi</string>
   <string name="notification_setting">Setelan notifikasi</string>
   <string name="notification_title_no_song">Lihat lagu apa saja yang sedang populer!</string>
-  <string name="nowplaying_circle_style">Mainkan gaya lingkaran</string>
+  <string name="nowplaying_circle_style">Gaya tombol mainkan</string>
   <string name="nowplaying_circle_style_rainbow">Pelangi</string>
   <string name="nowplaying_circle_style_wave">Gelombang</string>
   <string name="nowplaying_dialog_title_delete_tracks">Hapus dari daftar putar?</string>
@@ -629,8 +629,8 @@ terutama didukung oleh Ultimate Inc."</string>
   <string name="open_download">Buka</string>
   <string name="open_online_service">Anda butuh menghidupkan layanan online untuk dapat menggunakan fitur ini. Hidupkan sekarang?</string>
   <string name="open_service">Hidupkan</string>
-  <string name="optimize_all_until_optimized">Optimize song info, album and lyric</string>
-  <string name="optimize_all_until_scanned">Scanning local song, please try later</string>
+  <string name="optimize_all_until_optimized">Menerapkan sampul dan lirik baru...</string>
+  <string name="optimize_all_until_scanned">Tunggu sampai Music selesai memeriksa penyimpanan lagu.</string>
   <string name="order_pending">Menunggu konfirmasi</string>
   <string name="order_process_fail">Tdk dpt memberi kuasa akun Anda. Tunggu sebentar dan coba lagi.</string>
   <string name="other_filter">Lainnya</string>
@@ -646,7 +646,7 @@ terutama didukung oleh Ultimate Inc."</string>
   <string name="paused_waiting_to_retry">Menunggu untuk coba lagi</string>
   <string name="pay">Bayar:</string>
   <string name="pay_now">Layanan saat ini</string>
-  <string name="payment_fail">Pembayaran gagal</string>
+  <string name="payment_fail">Tidak dapat menyelesaikan pembayaran</string>
   <string name="payment_success">Pembayaran berhasil</string>
   <string name="pending_apk">Pending…</string>
   <string name="permission_declaration_message">Izinkan akses ke penyimpanan di Keamanan > Perizinan > Perizinan > Penyimpanan > Musik agar dapat menggunakan apl Musik dengan normal.</string>
@@ -665,7 +665,7 @@ terutama didukung oleh Ultimate Inc."</string>
   <string name="playlist_type_fm">FM</string>
   <string name="playlist_type_my">Daftar putar saya</string>
   <string name="playlist_type_recommend">Rekomendasi</string>
-  <string name="playlist_unavailable">Maaf, tidak tersedia daftar putar. Untuk menghapusnya, tekan dan tahan, lalu pilih hapus.</string>
+  <string name="playlist_unavailable">Daftar putar tidak tersedia. Untuk menghapusnya, tekan lalu pilih \"Hapus\"."</string>
   <string name="please_download_first">Anda harus unduh lagu ini dulu sebelum dipakai sebagai nada dering</string>
   <string name="please_search_or_select">Cari atau pilih bagian</string>
   <string name="please_select_song">Pilih lagu dulu</string>
@@ -766,7 +766,7 @@ terutama didukung oleh Ultimate Inc."</string>
   <string name="selected_count">%1$d dari %2$d terpilih</string>
   <string name="send_to">Berbagi</string>
   <string name="send_to_title">Kirim ke (%1$s)</string>
-  <string name="server_error">Server bermasalah. Coba sebentar lagi.</string>
+  <string name="server_error">Terjadi kesalahan, tunggu satu atau dua menit kemudian coba lagi.</string>
   <string name="service_and_settings">Layanan dan setelan</string>
   <string name="service_stop">Layanan dihentikan</string>
   <string name="set_as_ring">Setel sebagai nada dering</string>
@@ -815,7 +815,7 @@ terutama didukung oleh Ultimate Inc."</string>
   <string name="song_is_empty">Nama lagu tidak boleh kosong.</string>
   <string name="song_name">Lagu</string>
   <string name="song_not_find">Lagu ini tidak tersedia.</string>
-  <string name="song_offline">Maaf, lagu ini tidak lagi tersedia.</string>
+  <string name="song_offline">Lagu ini sudah tidak tersedia lagi.</string>
   <string name="song_unit">lagu</string>
   <string name="sort_by_name">Nama</string>
   <string name="sort_by_time">Tgl</string>
@@ -847,14 +847,19 @@ terutama didukung oleh Ultimate Inc."</string>
   <string name="tab_track_list">Lagu</string>
   <string name="take_effect_afater_restart">Anda perlu mulai ulang apl agar setelan ini berpengaruh.</string>
   <string name="talkback_back">Kembali</string>
+  <string name="talkback_cloud_setting">Pengaturan</string>
   <string name="talkback_device">Mainkan di perangkat lain</string>
   <string name="talkback_download">Unduh</string>
   <string name="talkback_favorite">Suka lagu ini</string>
-  <string name="talkback_karaoke">Open Karaoke</string>
-  <string name="talkback_mode">Loop</string>
-  <string name="talkback_mode_repeat_all">Loop mode</string>
-  <string name="talkback_mode_repeat_current">Repeat mode</string>
-  <string name="talkback_mode_repeat_shuffle">Shuffle mode</string>
+  <string name="talkback_follow">Mengikuti</string>
+  <string name="talkback_followed">Berhenti mengikuti</string>
+  <string name="talkback_header_search">"Cari "</string>
+  <string name="talkback_karaoke">Buka Karaoke</string>
+  <string name="talkback_like">Suka</string>
+  <string name="talkback_mode">Putaran</string>
+  <string name="talkback_mode_repeat_all">Mode putaran</string>
+  <string name="talkback_mode_repeat_current">Mode Ulangi</string>
+  <string name="talkback_mode_repeat_shuffle">Mode acak</string>
   <string name="talkback_more">Lainnya</string>
   <string name="talkback_next">Lagu berikut</string>
   <string name="talkback_nowplaying_bar">Menu putar bentuk bar</string>
@@ -865,6 +870,7 @@ terutama didukung oleh Ultimate Inc."</string>
   <string name="talkback_radar">Pengenalan music</string>
   <string name="talkback_search">Cari</string>
   <string name="talkback_share">Berbagi</string>
+  <string name="talkback_unlike">Berhenti suka</string>
   <string name="task_already_exist">Tugas telah ada</string>
   <string name="text_separator">|</string>
   <string name="ticket_summary">Beli tiket untuk pertunjukan, konser, drama, dan acara lainnya</string>

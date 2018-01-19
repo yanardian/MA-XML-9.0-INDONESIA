@@ -117,6 +117,18 @@
         <item quantity="other">%d item terpilih</item>
         <item quantity="one">%d item terpilih</item>
     </plurals>
+	    <plurals name="notif_title_multiple_downloading">
+        <item quantity="other">Mengunduh %1$d lagu</item>
+        <item quantity="one">Mengunduh %1$d lagu</item>
+    </plurals>
+    <plurals name="notification_download_failed_more">
+        <item quantity="other">"Tidak dapat mengunduh %1$d lagu"</item>
+        <item quantity="one">"Tidak dapat mengunduh %1$d lagu"</item>
+    </plurals>
+    <plurals name="notification_download_success_more">
+        <item quantity="other">%1$d lagu</item>
+        <item quantity="one">%1$d lagu</item>
+    </plurals>
     <plurals name="reader_count">
         <item quantity="other">%d pengikut</item>
         <item quantity="one">%d pengikut</item>

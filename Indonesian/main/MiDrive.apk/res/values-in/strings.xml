@@ -27,9 +27,9 @@
   <string name="downloading">Mengunduh</string>
   <string name="downloading_in_3g">Mengunduh di 3G…</string>
   <string name="downloading_in_wifi">Mengunduh…</string>
-  <string name="drive_low_memory_description_content">Ruang penyimpanan ponsel tidak cukup, bersihkan sampah ponsel agar lebih banyak ruang penyimpanan</string>
-  <string name="drive_low_memory_description_title">Peringatan memori rendah</string>
-  <string name="drive_low_memory_description_toast">Ruang penyimpanan ponsel tidak mencukupi, bersihkan setelah menggunakan MiDrive</string>
+  <string name="drive_low_memory_description_content">Tidak bisa menggunakan Mi Drive karena ruang penyimpanan tidak mencukupi.</string>
+  <string name="drive_low_memory_description_title">Ruang penyimpanan ponsel tidak mencukupi</string>
+  <string name="drive_low_memory_description_toast">"Tidak bisa menggunakan Mi Drive karena ruang penyimpanan tidak mencukupi, bersihkan dan coba lagi."</string>
   <string name="drive_low_memory_positive_content">Membersihkan</string>
   <string name="empty_file_download">"Berkas kosong tidak didukung."</string>
   <string name="empty_file_upload">"Berkas kosong tidak didukung."</string>
